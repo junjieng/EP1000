@@ -7,8 +7,7 @@ padding: 0;
 body{margin: 0 auto;
 width: 960px;
 background-color:darkseagreen;
-padding-left: 10px;
-padding-bottom: 10px;
+padding-right: 10px;
 float: unset;
 }
 
@@ -19,8 +18,7 @@ header{
 margin-left: 10px;
 width: 960px;
 background-color: lightgrey;
-padding-left: 10px;
-padding-bottom: 10px;
+padding-right: 10px;
 text-align: center;}
 
 nav{
@@ -39,9 +37,7 @@ article{
     font-family: Arial, Helvetica, sans-serif;
     background-color: lightyellow;
     width: 960px;
-
-    padding-left  : 10px;
-    padding-bottom: 10px;
+    padding-right  : 10px;
     align-items: center;
     margin-left: 10px;
 
@@ -52,8 +48,7 @@ section{
     font-family: Arial, Helvetica, sans-serif;
        width: 960x;
         margin-left: 10px;
-        padding-left: 10px;
-        padding-top: 10px;
+        padding-right: 10px;
      
     background-color: lightsalmon;}
     
@@ -66,6 +61,5 @@ width: 960px;
 background-color: lightseagreen;
 margin-top: 10px;
 margin-left: 10px;
-padding-left: 10px;
-padding-bottom: 10px;
+padding-right  : 10px;
 }

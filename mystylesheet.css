@@ -8,7 +8,7 @@ body{margin: 0 auto;
 width: 960px;
 background-color:darkseagreen;
 padding-left: 10px;
-padding-top: 10px;
+padding-bottom: 10px;
 float: unset;
 }
 
@@ -20,7 +20,7 @@ margin-left: 10px;
 width: 960px;
 background-color: lightgrey;
 padding-left: 10px;
-padding-top: 10px;
+padding-bottom: 10px;
 text-align: center;}
 
 nav{
@@ -41,7 +41,7 @@ article{
     width: 960px;
 
     padding-left  : 10px;
-    padding-top: 10px;
+    padding-bottom: 10px;
     align-items: center;
     margin-left: 10px;
 
@@ -67,5 +67,5 @@ background-color: lightseagreen;
 margin-top: 10px;
 margin-left: 10px;
 padding-left: 10px;
-padding-top: 10px;
+padding-bottom: 10px;
 }
